@@ -1,0 +1,2 @@
+# Sense_Amplifier_Cardiac_Pacemaker
+The Pacemaker is one of the important IMDs for a Heart Patient who  is suffering from the diseases like Arrythmia. The main outcome of this project is we have designed a Sense Amplifier in Pacemaker which is realized using DVCCTA Analog Active Block. The Sense Amplifier in the Pacemaker senses the minure signals in the Heart and amplifies the Signals according to the signal from the Heart.For this we use TSMC 180nm Transistor Technology.
